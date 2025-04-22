@@ -14,11 +14,11 @@ Task 2 of Elevate Labs
 ```tableau
 # Workbook: Data-Visualisation-Task.twb
 - Created 5 worksheets:
-  1. Sales Trend (Line chart)
-  2. Profit by Category (Bar chart)
+  1. Monthly Sales Trend (Line chart)
+  2. Profit by SubCategory (Bar chart)
   3. Regional Performance (Map)
-  4. Discount Impact (Scatter plot)
-  5. Customer Segmentation (Pie chart)
+  4. Sales by Segment(Bar chart)
+  5. Sales by Category (Pie chart)
 ```
 ![image](https://github.com/user-attachments/assets/0865b8e3-f232-405e-aeb8-520f52c1d07a)
 
