@@ -1,5 +1,5 @@
-# data-visualisation-tableau
-Task 2 of Elevate Labs
+# Data Analyst Internship — Task 2
+Data Visualization
 
 ## Data Cleaning Steps
 1. **Source Data**: `Superstore.csv` (original from Kaggle)
